@@ -31,7 +31,7 @@
     "gulp-uglify": "^3.0.2",
     "gulp-util": "^3.0.8",
     "jquery": "^3.4.0",
-    "mongodb": "^2.2.16",
+    "mongodb": "^3.1.13",
     "mongoose": "^5.4.19",
     "rename": "^1.0.4",
     "rsync": "^0.6.1",
